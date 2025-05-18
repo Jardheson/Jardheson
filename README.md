@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jardheson Oliveira
+# Jardheson Oliveira
 
 **`Desenvolvedor FullStack`**
 
