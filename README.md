@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jardheson Oliveira, tenho 39 anos e sou natural do Piauí. Atualmente, Formado em Analise e Desenvolvimento de Sistema, Gestão Empresarial, Pós Graduação em Desenvolvimento Mobile, Pós Graduação em Desenvolvimento FullStack-NC, Analista de Suporte. Sou apaixonada por tecnologia.
+Me chamo Jardheson Oliveira, tenho 39 anos e sou natural do Piauí. Atualmente, Formado em Analise e Desenvolvimento de Sistema, Gestão Empresarial, Pós Graduação em Desenvolvimento Mobile, Analista de Suporte. Sou apaixonada por tecnologia.
 
 ---
 
